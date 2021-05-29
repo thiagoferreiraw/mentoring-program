@@ -35,7 +35,7 @@ Com isso em mente, recomendo:
 ## Conteúdos e referências 
 - [Awesome lists](https://github.com/topics/awesome): Listas compiladas de diversas áreas
 - [App ideas](https://github.com/florinpop17/app-ideas): Diversas ideias para projetos
-- [O que é git/github](https://www.youtube.com/watch?v=ZDo_f3ZibFA&ab_channel=OBrunoGermanoOBrunoGermano)
+- [O que é git/github](https://www.youtube.com/watch?v=ZDo_f3ZibFA&ab_channel=OBrunoGermanoOBrunoGermano): Versionamento de código
 
 ## Contribuindo com esse projeto
 
