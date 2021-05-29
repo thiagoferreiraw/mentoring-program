@@ -36,6 +36,8 @@ Com isso em mente, recomendo:
 - [Awesome lists](https://github.com/topics/awesome): Listas compiladas de diversas áreas
 - [App ideas](https://github.com/florinpop17/app-ideas): Diversas ideias para projetos
 - [O que é git/github](https://www.youtube.com/watch?v=ZDo_f3ZibFA&ab_channel=OBrunoGermanoOBrunoGermano): Versionamento de código
+- [Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)
+- [Curso Python #01 - Seja um Programador](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&ab_channel=CursoemV%C3%ADdeoCursoemV%C3%ADdeoVerificado)
 
 ## Contribuindo com esse projeto
 
