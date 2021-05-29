@@ -11,9 +11,14 @@ Na área de tecnologia existem alguns pontos fundamentais que acho importante re
 - **🌐 Inglês**: Aprender um idioma mundialmente falado irá abrir muitas portas no seu desenvolvimento. No início, é possível consumir conteúdos, cursos e artigos escritos por pessoas do mundo todo, e essa é uma expansão incrível da quantidade de conteúdo disponível. Num segundo momento, o mercado de tecnologia está cada vez mais globalizado, e com o home office cada vez mais comum, perdemos muitas barreiras físicas e na prática podemos trabalhar em qualquer lugar do mundo. Demais, não?
 - **🐧: Linux** : Linux é um sistema operacional de código aberto, que é mundialmente utilizado em diversas áreas da tecnologia. 
 
+É importante também entender quais são as áreas disponíveis e quais te interessam mais. Segue alguns conteúdos pra ajudar nisso:
+- [Quais São as Melhores Profissões de Tecnologia para 2021? // Vlog #140](https://www.youtube.com/watch?v=AycZPxzTo90&ab_channel=C%C3%B3digoFonteTVC%C3%B3digoFonteTV)
+- [7 Passos para começar na área de TI](https://www.youtube.com/watch?v=UfuSVItLKEk&ab_channel=OBrunoGermano)
+- [Áreas de atuação em TI](https://www.youtube.com/watch?v=quSLB3dz-OM&ab_channel=CanalTI)
+
 ## Criando um plano de desenvolvimento individual 
 
-Escolha algumas tecnologias, cursos e crie alguns objetivos pessoais. Utilizando da metodologia ágil kanban, recomendo quebrar cada tópico de aprendizado em tópicos menores e criar uma lista de prioridade. Após isso, fica bem claro ver os próximos passos de estudo. Um exemplo:
+Escolha algumas tecnologias, cursos e crie alguns objetivos pessoais. Utilizando da metodologia ágil kanban, recomendo quebrar cada tópico de aprendizado em tópicos menores e criar uma lista de prioridade. Após isso, fica bem claro ver os próximos passos de estudo. Um exemplo feito no [Trello](https://trello.com/):
 
 ![image](https://user-images.githubusercontent.com/9268203/119709584-c0ab6680-be33-11eb-818e-6c22c4fc2bb5.png)
 
@@ -30,6 +35,7 @@ Com isso em mente, recomendo:
 ## Conteúdos e referências 
 - [Awesome lists](https://github.com/topics/awesome): Listas compiladas de diversas áreas
 - [App ideas](https://github.com/florinpop17/app-ideas): Diversas ideias para projetos
+- [O que é git/github](https://www.youtube.com/watch?v=ZDo_f3ZibFA&ab_channel=OBrunoGermanoOBrunoGermano)
 
 ## Contribuindo com esse projeto
 
