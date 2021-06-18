@@ -32,7 +32,21 @@ Os fundamentos do passo 2 são aplicáveis em diversas linguagens de programaç�
 - Go
 - C#
 
+Existe também esse índice de popularidade de linguagens que pode ajudar na descisão: https://www.tiobe.com/tiobe-index/
 
+### 4 - Prática, prática e mais prática
+
+Fazendo uma citação da página http://codekata.com/, como uma pessoa se torna um músico? Saber a teoria ajuda, talvez até um pouco de talento, mas definitivamente,  prática! Aplicar a teoria repetidamente e usar o feedback de outras pessoas para melhorar. Não é muito diferente para pessoas desenvolvedoras, artistas, designers, advogados e desportistas.
+
+Com isso em mente, recomendo encontrar ou criar um projeto pessoal e trabalhar nele de forma a aplicar os conhecimentos. Algumas sugestões:
+- [Awesome lists](https://github.com/topics/awesome): Listas compiladas de diversas áreas
+- [App ideas](https://github.com/florinpop17/app-ideas): Diversas ideias para projetos
+
+### 5 - Entre em uma comunidade 
+
+Uma comunidade de tecnologia é o ponto de encontro de pessoas mais experientes na área, podendo ter palestras, trocas de conhecimento e vagas de emprego a disposição. Sugestões da comunidade python:
+- Grupy-RP: [meetup](https://www.meetup.com/grupy-rp/) e [telegram](https://t.me/joinchat/TC69G3vQgjTlxm6f)
+- **@pythonbrasil** no telegram
 
 ## Outros pontos
 
@@ -59,8 +73,7 @@ Com isso em mente, recomendo:
 
 
 ## Conteúdos e referências 
-- [Awesome lists](https://github.com/topics/awesome): Listas compiladas de diversas áreas
-- [App ideas](https://github.com/florinpop17/app-ideas): Diversas ideias para projetos
+
 - [O que é git/github](https://www.youtube.com/watch?v=ZDo_f3ZibFA&ab_channel=OBrunoGermanoOBrunoGermano): Versionamento de código
 - [70+ Python Projects for Beginners, Intermediate and Experienced Developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 ## Contribuindo com esse projeto
