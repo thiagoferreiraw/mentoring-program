@@ -49,7 +49,7 @@ Uma comunidade de tecnologia é o ponto de encontro de pessoas mais experientes 
 - Grupy-RP: [meetup](https://www.meetup.com/grupy-rp/) e [telegram](https://t.me/joinchat/TC69G3vQgjTlxm6f)
 - **@pythonbrasil** no telegram
 
-### 6 - Publique seu progresso e projetos e procure vagas 
+### 6 - Publique seu progresso/projetos e procure vagas 
 
 Na busca por novas vagas, é muito importante ter um portifólio (geralmente no github pra pessoas programadoras) com seus projetos e aprendizados. Isso irá demonstrar para recrutadores as tecnologias que você já é familiarizado. 
 
