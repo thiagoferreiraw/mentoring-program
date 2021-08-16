@@ -55,7 +55,8 @@ Na busca por novas vagas, é muito importante ter um portifólio (geralmente no 
 
 Pra procurar vagas, existem diversas plataformas, mas pra início eu recomendo o Linkedin. Há uma pesquisa de vagas bem eficiente por lá, e também já é possível ver os requisitos das vagas pra que você tenha noção dos caminhos que precisa trilhar. Referências:
 - [O que é git/github](https://www.youtube.com/watch?v=ZDo_f3ZibFA&ab_channel=OBrunoGermanoOBrunoGermano): Versionamento de código
-- [https://github.com/yangshun/tech-interview-handbook](Tech Interview Handbook)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Code Review & Pull Request no Github](https://www.youtube.com/watch?v=MpsNF-EyytQ)
 
 ## Outros pontos
 
