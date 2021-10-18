@@ -58,6 +58,23 @@ Pra procurar vagas, existem diversas plataformas, mas pra início eu recomendo o
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Code Review & Pull Request no Github](https://www.youtube.com/watch?v=MpsNF-EyytQ)
 
+### 7 (bônus) - Contribuir para software livre
+
+Um pouco mais de contexto sobre esse ponto pode ser visto nessa palestra: [Experiências mentorando contribuições a software livre na faculdade
+](https://youtu.be/PUsjycX4XR0?t=302), por Igor Montagner.
+
+Os pontos principais são:
+- Aprender a utilizar controle de versão dentro do contexto de uma equipe (parar de usar a branch main para tudo 🔒)
+- Melhorar a capacidade de leitura e debug de código já existente (pois no mercado, nem sempre vamos começar um projeto do zero e é importante aprender a lidar com códigos já existentes e desconhecidos)
+- Melhorar familiaridade com testes, CI, linting e outras práticas de qualidade de software
+- Ter um registro público de como você colabora.
+
+Não sabe por onde começar? Temos essas duas referências:
+- https://goodfirstissue.dev/
+- https://github.com/MunGell/awesome-for-beginners
+
+Mas é importante também conversar com amigos e pares da área de tecnologia se precisar de uma ajudinha pra escolher um projeto :)
+
 ## Outros pontos
 
 Na área de tecnologia existem alguns pontos fundamentais que acho importante ressaltar e que podem fazer toda a diferença em uma carreira de tecnologia. São eles:
