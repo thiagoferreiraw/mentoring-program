@@ -92,9 +92,21 @@ Quanto ao trabalho voluntário, é uma excelente forma de aprimorar suas habilid
 
 Na área de tecnologia existem alguns pontos fundamentais que acho importante ressaltar e que podem fazer toda a diferença em uma carreira de tecnologia. São eles:
 
-- **🤖 Lógica de programação/Algoritmos**: Seja lá qual for sua linguagem de programação escolhida, durante toda a carreira iremos usar algoritmos, então é importantíssimo investir tempo nesse passo para ter um aprendizado mais completo. 
-- **🌐 Inglês**: Aprender um idioma mundialmente falado irá abrir muitas portas no seu desenvolvimento. No início, é possível consumir conteúdos, cursos e artigos escritos por pessoas do mundo todo, e essa é uma expansão incrível da quantidade de conteúdo disponível. Num segundo momento, o mercado de tecnologia está cada vez mais globalizado, e com o home office cada vez mais comum, perdemos muitas barreiras físicas e na prática podemos trabalhar em qualquer lugar do mundo. Demais, não?
-- **🐧: Linux** : Linux é um sistema operacional de código aberto, que é mundialmente utilizado em diversas áreas da tecnologia. 
+### 🤖 Pensamento computacional (Lógica de programação/Algoritmos)
+Muitas vezes ouvimos a recomedação pra estudar lógica de programação primeiro. Mas o que isso quer dizer na prática? Na verdade, muitas vezes os termos se confundem um pouco e o que geralmente estamos nos referimos é o **Pensamento Computacional**.
+
+O pensamento computacional é um conjunto de atitudes e habilidades que envolve a decomposição de problemas, reconhecimento de padrões, abstração e algoritmos.
+Seja lá qual for sua linguagem de programação escolhida, durante toda a carreira precisamos refinar nosso pensamento computacional para melhorar nossa solução de problemas, então é importantíssimo investir tempo nesse passo para ter um aprendizado mais completo. 
+
+Como referência, deixo a palestra [Para além da treta "lógica de programação primeiro"](https://youtu.be/2jcvSbm1vNw?t=4238), da [lidymonteiro](https://github.com/lidymonteiro) na python brasil 2021:
+![pensamento-computacional](https://user-images.githubusercontent.com/9268203/138563927-f9119c58-d103-4f40-ab12-d7c4e0af97d9.png)
+
+### 🌐 Inglês
+
+Aprender um idioma mundialmente falado irá abrir muitas portas no seu desenvolvimento. No início, é possível consumir conteúdos, cursos e artigos escritos por pessoas do mundo todo, e essa é uma expansão incrível da quantidade de conteúdo disponível. Num segundo momento, o mercado de tecnologia está cada vez mais globalizado, e com o home office cada vez mais comum, perdemos muitas barreiras físicas e na prática podemos trabalhar em qualquer lugar do mundo. Demais, não?
+### Linux
+
+Linux é um sistema operacional de código aberto, que é mundialmente utilizado em diversas áreas da tecnologia. 
 
  
 ## Contribuindo com esse projeto
