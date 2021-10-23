@@ -47,6 +47,8 @@ Escolha algumas tecnologias, cursos e crie alguns objetivos pessoais. Utilizando
 
 Uma comunidade de tecnologia é o ponto de encontro de pessoas mais experientes na área, podendo ter palestras, trocas de conhecimento e vagas de emprego a disposição. Sugestões da comunidade python:
 - Grupy-RP: [meetup](https://www.meetup.com/grupy-rp/) e [telegram](https://t.me/joinchat/TC69G3vQgjTlxm6f)
+- Grupy-sanca: [meetup](https://www.meetup.com/grupy-sanca/), discord e telegram disponíveis na descrição do grupo.
+- PyLadies Brasil: https://brasil.pyladies.com/
 - **@pythonbrasil** no telegram
 
 ### 6 - Publique seu progresso/projetos e procure vagas 
@@ -58,7 +60,7 @@ Pra procurar vagas, existem diversas plataformas, mas pra início eu recomendo o
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 - [Code Review & Pull Request no Github](https://www.youtube.com/watch?v=MpsNF-EyytQ)
 
-### 7 (bônus) - Contribuir para software livre
+### 7 (bônus) - Contribuir para software livre ou trabalho voluntário
 
 Um pouco mais de contexto sobre esse ponto pode ser visto nessa palestra: [Experiências mentorando contribuições a software livre na faculdade
 ](https://youtu.be/PUsjycX4XR0?t=302), por Igor Montagner.
@@ -74,6 +76,10 @@ Não sabe por onde começar? Temos essas duas referências:
 - https://github.com/MunGell/awesome-for-beginners
 
 Mas é importante também conversar com amigos e pares da área de tecnologia se precisar de uma ajudinha pra escolher um projeto :)
+
+Quanto ao trabalho voluntário, é uma excelente forma de aprimorar suas habilidades, enquanto causa um impacto positivo no mundo. Existem diversas plataformas de trabalho, mas posso citar algumas aqui:
+- https://www.atados.com.br/
+- https://www.volunteermatch.org/
 
 ## Outros pontos
 
