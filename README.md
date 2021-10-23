@@ -15,9 +15,14 @@ Existem muitas atuações possíveis dentro de tecnologia envolvendo programaç�
 
 ### 2 - Faça algum curso pra aprender princípios e fundamentos
 
-Existe todo tipo de conteúdo disponível, indo dos gratuitos aos pagos. Vou deixar duas referências disponibilidas gratuitamente:
+Existe todo tipo de conteúdo disponível, indo dos gratuitos aos pagos. Vou deixar algumas referências disponibilidas gratuitamente:
 - [Introdução a Algoritmos - Curso de Algoritmos #01 - Gustavo Guanabara](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&ab_channel=CursoemV%C3%ADdeo)
+- [Curso de Ciência da Computação - Khan Academy](https://pt.khanacademy.org/computing/computer-science)
 - [Curso Python #01 - Seja um Programador](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&ab_channel=CursoemV%C3%ADdeoCursoemV%C3%ADdeoVerificado)
+- [Python Para Zumbis - Professor Fernando Masanori](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
+- [Curso Introdutório de Python - grupy-sanca](http://curso.grupysanca.com.br/pt/latest/)
+- [Tutorial do Django Girls](https://tutorial.djangogirls.org/pt/)
+
 
 ### 3 - Escolha alguma tecnologia para se aprofundar
 
@@ -38,6 +43,8 @@ Com isso em mente, recomendo encontrar um projeto da comunidade ou criar um proj
 - [Awesome lists](https://github.com/topics/awesome): Listas compiladas de diversas áreas
 - [App ideas](https://github.com/florinpop17/app-ideas): Diversas ideias para projetos
 - [70+ Python Projects for Beginners, Intermediate and Experienced Developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
+- [Programming Challenges](https://github.com/michelbernardods/programming-challenges)
+- [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 Escolha algumas tecnologias, cursos e crie alguns objetivos pessoais. Utilizando da metodologia ágil kanban, recomendo quebrar cada tópico de aprendizado em tópicos menores e criar uma lista de prioridade. Após isso, fica bem claro ver os próximos passos de estudo. Um exemplo feito no [Trello](https://trello.com/):
 
