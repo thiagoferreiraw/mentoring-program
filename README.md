@@ -55,7 +55,8 @@ Escolha algumas tecnologias, cursos e crie alguns objetivos pessoais. Utilizando
 Uma comunidade de tecnologia é o ponto de encontro de pessoas mais experientes na área, podendo ter palestras, trocas de conhecimento e vagas de emprego a disposição. Sugestões da comunidade python:
 - Grupy-RP: [meetup](https://www.meetup.com/grupy-rp/) e [telegram](https://t.me/joinchat/TC69G3vQgjTlxm6f)
 - Grupy-sanca: [meetup](https://www.meetup.com/grupy-sanca/), discord e telegram disponíveis na descrição do grupo.
-- PyLadies Brasil: https://brasil.pyladies.com/
+- PyLadies Brasil: https://brasil.pyladies.com/. Disponível no [slack](https://slackin.pyladies.com/) e [instagram](https://www.instagram.com/pyladiesbrasil/)
+- [Afropython](https://afropython.org/)
 - **@pythonbrasil** no telegram
 
 ### 6 - Publique seu progresso/projetos e procure vagas 
