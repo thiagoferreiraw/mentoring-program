@@ -45,6 +45,7 @@ Com isso em mente, recomendo encontrar um projeto da comunidade ou criar um proj
 - [70+ Python Projects for Beginners, Intermediate and Experienced Developers](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 - [Programming Challenges](https://github.com/michelbernardods/programming-challenges)
 - [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+- [guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
 
 Escolha algumas tecnologias, cursos e crie alguns objetivos pessoais. Utilizando da metodologia ágil kanban, recomendo quebrar cada tópico de aprendizado em tópicos menores e criar uma lista de prioridade. Após isso, fica bem claro ver os próximos passos de estudo. Um exemplo feito no [Trello](https://trello.com/):
 
