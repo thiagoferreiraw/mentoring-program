@@ -22,7 +22,7 @@ Existe todo tipo de conteúdo disponível, indo dos gratuitos aos pagos. Vou dei
 - [Python Para Zumbis - Professor Fernando Masanori](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)
 - [Curso Introdutório de Python - grupy-sanca](http://curso.grupysanca.com.br/pt/latest/)
 - [Tutorial do Django Girls](https://tutorial.djangogirls.org/pt/)
-
+- [Things they didn’t teach you about Software Engineering](https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/)
 
 ### 3 - Escolha alguma tecnologia para se aprofundar
 
